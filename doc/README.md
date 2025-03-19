@@ -1,1 +1,0 @@
-Add your docs to this folder
